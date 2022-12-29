@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: myjenkins
+
+server:
+  port: 9000
