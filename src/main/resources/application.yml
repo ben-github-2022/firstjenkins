@@ -3,4 +3,4 @@ spring:
     name: myjenkins
 
 server:
-  port: 9000
+  port: 9001
